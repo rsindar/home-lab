@@ -1,6 +1,8 @@
 # Home Lab
 Mini PC configurations for a home lab
 
+***
+
 ## Option 1
 [Minisforum UM790 Pro](https://store.minisforum.de/en/products/minisforum-um790-pro) - AMD 9 7940HS, 32GB RAM, 500GB SSD
 
