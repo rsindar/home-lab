@@ -13,7 +13,7 @@ Mini PC configurations for a home lab
 [Minisforum UM890 Pro](https://store.minisforum.de/en/products/minisforum-um890-pro-mini-pc) - AMD Ryzen 9 8945HS, 32GB RAM, 500GB SSD
 
 ## Option 4
-[GEEKOM A80](https://www.geekom.de/geekom-a8-mini-pc/) - AMD Ryzen 9 8945HS, 32GB RAM, 500GB SSD
+[GEEKOM A8](https://www.geekom.de/geekom-a8-mini-pc/) - AMD Ryzen 9 8945HS, 32GB RAM, 500GB SSD
 
 ## Option 5
 [ASUS NUC 14 Pro Mini PC](https://www.asus.com/displays-desktops/nucs/nuc-mini-pcs/asus-nuc-14-pro/techspec/) - Intel Core Ultra 7 165H, 32GB RAM, 500GB SSD
